@@ -1,11 +1,11 @@
-package by.serhel.math.controller;
+package by.serhel.controller;
 
-import by.serhel.math.model.Login;
-import by.serhel.math.model.LoginImpl;
-import by.serhel.math.model.Register;
-import by.serhel.math.model.RegisterImpl;
-import by.serhel.math.view.Inputter;
-import by.serhel.math.view.Printer;
+import by.serhel.model.Login;
+import by.serhel.model.LoginImpl;
+import by.serhel.model.Register;
+import by.serhel.model.RegisterImpl;
+import by.serhel.view.Inputter;
+import by.serhel.view.Printer;
 
 import java.io.IOException;
 

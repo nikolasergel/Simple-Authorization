@@ -1,4 +1,4 @@
-package by.serhel.math.view;
+package by.serhel.view;
 
 import java.util.Scanner;
 

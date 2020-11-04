@@ -1,4 +1,4 @@
-package by.serhel.math.model;
+package by.serhel.model;
 
 import java.io.File;
 import java.io.FileReader;

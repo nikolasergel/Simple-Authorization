@@ -1,6 +1,6 @@
-package by.serhel.math.model;
+package by.serhel.model;
 
-import by.serhel.math.view.Printer;
+import by.serhel.view.Printer;
 
 import java.io.IOException;
 

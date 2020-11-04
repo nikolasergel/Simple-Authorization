@@ -1,4 +1,4 @@
-package by.serhel.math.view;
+package by.serhel.view;
 
 public class Printer {
     public static void print(String str){
